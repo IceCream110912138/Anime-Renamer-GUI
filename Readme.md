@@ -41,4 +41,8 @@
 
 ## 📝 开源协议
 [MIT License](LICENSE)
-![Uploading Screenshot 2026-02-20 232259.png…]()
+
+## 📷 界面截图
+
+<img width="1123" height="777" alt="Screenshot 2026-02-20 232259" src="https://github.com/user-attachments/assets/16916bf1-dbe6-4399-b09a-03f7c2fa1bf8" />
+
