@@ -2,7 +2,7 @@
 
 这是一个基于 Python + Tkinter 开发的轻量级番剧批量重命名工具。旨在解决自动化刮削软件（如 TinyMediaManager, Plex, Emby）在面对特定压制组命名格式时出现的识别错误问题。
 
-## 🌟 为什么写这个程序？（痛点描述）
+## 🌟 为什么写这个程序？
 
 在使用 **TinyMediaManager (TMM)** 等主流刮削工具时，我发现它们提取集数（Episode Number）的逻辑通常是“匹配文件名中出现的第一个数字”。
 
@@ -41,3 +41,4 @@
 
 ## 📝 开源协议
 [MIT License](LICENSE)
+![Uploading Screenshot 2026-02-20 232259.png…]()
