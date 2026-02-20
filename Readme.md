@@ -33,7 +33,7 @@
 
 ### 方式二：开发者模式
 1. 克隆仓库：`git clone https://github.com/你的用户名/Anime-Renamer.git`
-2. 运行脚本：`python src/rename_gui.py`
+2. 运行脚本：`python src/rename_anime.py`
 
 ## 🛠 开发环境
 - Python 3.x
