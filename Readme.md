@@ -44,5 +44,4 @@
 
 ## 📷 界面截图
 
-<img width="1123" height="777" alt="Screenshot 2026-02-20 232259" src="https://github.com/user-attachments/assets/16916bf1-dbe6-4399-b09a-03f7c2fa1bf8" />
-
+<img width="994" height="733" alt="Screenshot 2026-02-23 193937" src="https://github.com/user-attachments/assets/70671c22-d1b7-49b1-bf07-e2c4839f3743" />
